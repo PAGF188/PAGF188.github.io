@@ -9,7 +9,7 @@ profile:
   image: profile_pic.webp
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Candidate</p>
+    <p>Assistant Professor</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,10 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Pablo, a PhD candidate in Computer Vision at the University of Santiago de Compostela (USC) and a researcher at the Research Center on Intelligent Technologies (CiTIUS). My work explores the frontiers of visual recognition under minimal supervision, with a focus on object detection beyond closed-set assumptions. This includes open-vocabulary models, few-shot generalization, and category-free inference. Broadly, I aim to develop scalable, adaptable perception systems that bring computer vision closer to the richness and flexibility of human perception.
+I am Pablo García Fernández, an Assistant Professor in Computer Science and Artificial Intelligence at the University of Santiago de Compostela (USC) and a researcher at the Centro Singular de Investigación en Tecnoloxías Intelixentes (CiTIUS). I received my PhD in 2025 with a dissertation on object detection under minimal supervision.
 
-In 2024–2025, I was a visiting PhD student at the University of Trento (Italy) with the Multimedia and Human Understanding Group (MHUG). 
+My research focuses on developing adaptable visual recognition systems that can operate beyond fixed category sets and with limited supervision, with particular interests in open-vocabulary object detection, few-shot learning, and multimodal visual recognition. I have also worked on transferring open-vocabulary models to X-ray imagery for security screening applications.
 
-I am funded by the FPU Predoctoral Fellowship, one of the most competitive research grants awarded by the Spanish Ministry of Universities.
+In 2024–2025, I was a visiting PhD researcher at the University of Trento (Italy), where I worked with the Multimedia and Human Understanding Group (MHUG).
 
-My work has been published in leading venues such as ICCV.
+During my PhD, I was awarded an FPU Predoctoral Fellowship from the Spanish Ministry of Universities, a highly competitive national fellowship supporting doctoral research in Spain.
+
+My research has been published in international venues including ICCV.
